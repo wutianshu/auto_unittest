@@ -2,7 +2,6 @@ import HTMLTestRunner
 import time, os
 import unittest
 from testCases.test_1 import TestClass1
-
 from testCases.test_2 import TestClass2
 
 if __name__ == '__main__':
